@@ -11,7 +11,7 @@ const Links = () => {
     
     const LinksRedes = listaRedes.map(props => 
         <div key={props.id} className='Lista-Links'>
-            <a href={props.urlRede}>{props.nome}</a>
+            <a href={props.urlRede} target="_blank">{props.nome}</a>
         </div>
     )
     return (

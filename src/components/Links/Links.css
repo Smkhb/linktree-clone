@@ -1,9 +1,9 @@
 .Lista-Links a{
-    max-width: 50%;
+    max-width: 60%;
     display: flex;
     justify-content: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 500;
     background-color: thistle;
     text-decoration: none;
@@ -14,5 +14,5 @@
 
 .Lista-Links a:hover {
     color: white;
-    max-width: 52.5%;
+    max-width: 62.5%;
 }
