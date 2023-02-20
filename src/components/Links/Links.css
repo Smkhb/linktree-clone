@@ -1,0 +1,18 @@
+.Lista-Links a{
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 500;
+    background-color: thistle;
+    text-decoration: none;
+    margin: 8px auto;
+    padding: 12px 32px;
+    transition: 0.2s ease-in-out;
+}
+
+.Lista-Links a:hover {
+    color: white;
+    max-width: 52.5%;
+}
