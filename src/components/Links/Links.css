@@ -5,11 +5,12 @@
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 500;
-    background-color: thistle;
+    background-color: #A67244;
     text-decoration: none;
     margin: 8px auto;
     padding: 12px 32px;
     transition: 0.2s ease-in-out;
+    color: #567365;
 }
 
 .Lista-Links a:hover {
